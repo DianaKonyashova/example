@@ -1,0 +1,15 @@
+/Users/bradbury/Desktop/education/example2/Example3/bin/Debug/net8.0/Example3
+/Users/bradbury/Desktop/education/example2/Example3/bin/Debug/net8.0/Example3.deps.json
+/Users/bradbury/Desktop/education/example2/Example3/bin/Debug/net8.0/Example3.runtimeconfig.json
+/Users/bradbury/Desktop/education/example2/Example3/bin/Debug/net8.0/Example3.dll
+/Users/bradbury/Desktop/education/example2/Example3/bin/Debug/net8.0/Example3.pdb
+/Users/bradbury/Desktop/education/example2/Example3/obj/Debug/net8.0/Example3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bradbury/Desktop/education/example2/Example3/obj/Debug/net8.0/Example3.AssemblyInfoInputs.cache
+/Users/bradbury/Desktop/education/example2/Example3/obj/Debug/net8.0/Example3.AssemblyInfo.cs
+/Users/bradbury/Desktop/education/example2/Example3/obj/Debug/net8.0/Example3.csproj.CoreCompileInputs.cache
+/Users/bradbury/Desktop/education/example2/Example3/obj/Debug/net8.0/Example3.sourcelink.json
+/Users/bradbury/Desktop/education/example2/Example3/obj/Debug/net8.0/Example3.dll
+/Users/bradbury/Desktop/education/example2/Example3/obj/Debug/net8.0/refint/Example3.dll
+/Users/bradbury/Desktop/education/example2/Example3/obj/Debug/net8.0/Example3.pdb
+/Users/bradbury/Desktop/education/example2/Example3/obj/Debug/net8.0/Example3.genruntimeconfig.cache
+/Users/bradbury/Desktop/education/example2/Example3/obj/Debug/net8.0/ref/Example3.dll
