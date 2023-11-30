@@ -1,0 +1,15 @@
+/Users/bradbury/Desktop/education/example2/Example6/obj/Debug/net8.0/Example6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bradbury/Desktop/education/example2/Example6/obj/Debug/net8.0/Example6.AssemblyInfoInputs.cache
+/Users/bradbury/Desktop/education/example2/Example6/obj/Debug/net8.0/Example6.AssemblyInfo.cs
+/Users/bradbury/Desktop/education/example2/Example6/obj/Debug/net8.0/Example6.csproj.CoreCompileInputs.cache
+/Users/bradbury/Desktop/education/example2/Example6/obj/Debug/net8.0/Example6.sourcelink.json
+/Users/bradbury/Desktop/education/example2/Example6/bin/Debug/net8.0/Example6
+/Users/bradbury/Desktop/education/example2/Example6/bin/Debug/net8.0/Example6.deps.json
+/Users/bradbury/Desktop/education/example2/Example6/bin/Debug/net8.0/Example6.runtimeconfig.json
+/Users/bradbury/Desktop/education/example2/Example6/bin/Debug/net8.0/Example6.dll
+/Users/bradbury/Desktop/education/example2/Example6/bin/Debug/net8.0/Example6.pdb
+/Users/bradbury/Desktop/education/example2/Example6/obj/Debug/net8.0/Example6.dll
+/Users/bradbury/Desktop/education/example2/Example6/obj/Debug/net8.0/refint/Example6.dll
+/Users/bradbury/Desktop/education/example2/Example6/obj/Debug/net8.0/Example6.pdb
+/Users/bradbury/Desktop/education/example2/Example6/obj/Debug/net8.0/Example6.genruntimeconfig.cache
+/Users/bradbury/Desktop/education/example2/Example6/obj/Debug/net8.0/ref/Example6.dll
